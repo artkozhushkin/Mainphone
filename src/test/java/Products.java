@@ -10,7 +10,7 @@ public class Products {
         switch (product) {
 
             case 1: productString = "Kolbasa";
-            break;
+               break;
             case 2: productString = "Hleb";
                 break;
             case 3: productString = "Maslo";
